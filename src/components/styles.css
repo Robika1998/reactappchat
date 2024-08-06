@@ -53,3 +53,19 @@ button:hover {
 .message strong {
   color: #007bff;
 }
+
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+.message.own-message {
+  background-color: #d1e7dd;
+  text-align: right;
+}
+
+.message strong {
+  color: #007bff;
+}
